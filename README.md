@@ -1,6 +1,6 @@
-Rust Engineer & Web 3 Developer with AI
+Rust Engineer& Web 3 Developer with AI
 
-Hi there 👋, I’m a Rust Engineer & Web3 Developer passionate about AI-powered innovations.
+Hi there 👋,This is Dexoryn,  I’m a Rust Engineer & Web3 Developer passionate about AI-powered innovations.
 
 💎 Currently diving into X402 micropayments — building instant, verifiable on-chain payment solutions for streaming and content platforms.
 
