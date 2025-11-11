@@ -1,4 +1,4 @@
-Rust Engineer& Web 3 Developer toAI
+Rust Engineer& Web 3 Developer to  AI
 
 Hi there 👋,This is Dexoryn,  I’m a Rust Engineer & Web3 Developer passionate about AI-powered innovations.
 
