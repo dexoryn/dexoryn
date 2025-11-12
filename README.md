@@ -6,6 +6,8 @@ I’m a Rust Engineer & Web3 Developer passionate about AI-powered innovations.
 
 I love creating secure, scalable, and cutting-edge applications in Rust and Web3, and sharing my experiments with the community.
 
+In the part time, I 'd like mining & Contribute in Bittensor Network with my skills & knowledge for the future of AI, 
+
 🦀 Focused on building AI-integrated decentralized systems that redefine how we interact with data, payments, and trust.
 🚀 Always exploring, learning, and pushing the boundaries of blockchain intelligence.
 
