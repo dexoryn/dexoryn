@@ -1,4 +1,4 @@
-👋 Hey there, I’m Dexoryndexoryn | Full-time builder @dexorynlabs
+👋 Hey there, I’m Dexoryn | Full-time builder @dexorynlabs
 
 Polymarket bots | provable casinos | I make money while you sleep
 
