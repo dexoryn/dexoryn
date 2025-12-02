@@ -1,4 +1,6 @@
-👋 Hey there, I’m Dexoryn
+👋 Hey there, I’m Dexoryndexoryn | Full-time builder @dexorynlabs
+
+Polymarket bots | provable casinos | I make money while you sleep
 
 I’m a Rust Engineer & Web3 Developer passionate about AI-powered innovations.
 
@@ -10,5 +12,7 @@ In the part time, I 'd like mining & Contribute in Bittensor Network with my ski
 
 🦀 Focused on building AI-integrated decentralized systems that redefine how we interact with data, payments, and trust.
 🚀 Always exploring, learning, and pushing the boundaries of blockchain intelligence.
+
+
 
 🌱 Open to collaborations on projects that merge AI + Web3 — from autonomous networks to adaptive smart contracts.
