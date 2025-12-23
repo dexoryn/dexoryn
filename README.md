@@ -10,6 +10,6 @@ I love creating secure, scalable, and cutting-edge applications in Rust and Web3
 
 In the part time, I 'd like mining & Contribute in Bittensor Network with my skills & knowledge for the future of AI, 
 
-🦀 Focused on building AI-integrated decentralized systems that redefine how we interact with data, payments, and trust.
-🚀 Always exploring, learning, and pushing the boundaries of blockchain intelligence.
+🦀 Focused on building AI-integrated decentralized systems that redefine how we interact with data, payments, and trust.<hr/>
+🚀 Always exploring, learning, and pushing the boundaries of blockchain intelligence.<hr/>
 🌱 Open to collaborations on projects that merge AI + Web3 — from autonomous networks to adaptive smart contracts.
