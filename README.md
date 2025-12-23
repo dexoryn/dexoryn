@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hey there, I’m Dexoryn | Full-time builder @dexorynlabs </h1>
 
 Rust Engineer & Web3 Developer passionate about AI-powered innovations.  
-Polymarket bots | provable casinos | I make money while you sleep
+Polymarket bots | Provable casinos  --- "I make money while you sleep!"
 
 I love creating secure, scalable, and cutting-edge applications in Rust and Web3, and sharing my experiments with the community.  
 In the part time, I 'd like mining & Contribute in Bittensor Network with my skills & knowledge for the future of AI.
