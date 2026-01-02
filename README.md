@@ -11,3 +11,6 @@ In the part time, I 'd like mining & Contribute in Bittensor Network with my ski
 🚀 Always exploring, learning, and pushing the boundaries of blockchain intelligence.  
 🦀 Focused on building AI-integrated decentralized systems that redefine how we interact with data, payments, and trust.  
 🌱 Open to collaborations on projects that merge AI + Web3 - from autonomous networks to adaptive smart contracts.
+
+
+[![committers.top badge](https://user-badge.committers.top/worldwide_public/dexoryn.svg)](https://user-badge.committers.top/worldwide_public/dexoryn)
