@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hey there, I’m Dexoryn | Full-time builder @dexorynlabs </h1>
+<h1 align="left" id="macropower-title">:wave: Hi, I’m Dexoryn | Full-time builder @dexorynlabs </h1>
 
 Rust Engineer & Web3 Developer passionate about AI-powered innovations.  
 Polymarket bots | Provable casinos  --- "I make money while you sleep!"
