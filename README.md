@@ -6,7 +6,7 @@ Polymarket bots | Provable casinos  --- "I make money while you sleep!"
 I love creating secure, scalable, and cutting-edge applications in Rust and Web3, and sharing my experiments with the community.  
 In the part time, I 'd like mining & Contribute in Bittensor Network with my skills & knowledge for the future of AI.
 
-💎 Currently diving into X402 micropayments - building instant, verifiable on-chain payment solutions for streaming and content platforms.
+💎 Currently diving into X402 micropayments - building instant, verifiable on-chain payment solutions for streaming and content platforms.  
 💎 And making Polymarket trading bots for people , really like it in my part time.
 
 🚀 Always exploring, learning, and pushing the boundaries of blockchain intelligence.  
